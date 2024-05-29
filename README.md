@@ -7,4 +7,7 @@ Proyecto Sprint 5
 - Se actualiza todo lo creado al GITHUB
 - Se crea la aplicación con Render
 
+<<<<<<< HEAD
 **Link a la aplicación** https://tt-p5-c20-qylv.onrender.com/
+=======
+>>>>>>> 629f577aeefa93adacfd850358d2f176201bfe1f
